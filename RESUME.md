@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi, I am Waiken Kuang(Chinese:邝伟健; pinyin:kuàng wěi jiàn), a Senior Software Developer(C/C++、Java) with 7 years of experience in the Integrated circuit and IT industry in China. I am proficient in Java,Spring,Mybatis and related tech stacks. I have worked for Skyworth Digital LTD as a embedded software developer , Country Garden Group as a Java developer ,both are fortune 500 companies in the world.
+Hi, I am Waiken Kuang, a Senior Software Developer(C/C++、Java) with 7 years of experience in the Integrated circuit and IT industry in China. I am proficient in Java,Spring,Mybatis and related tech stacks. I have worked for Skyworth Digital LTD as a embedded software developer , Country Garden Group as a Java developer ,both are fortune 500 companies in the world.
 
 ---
 
