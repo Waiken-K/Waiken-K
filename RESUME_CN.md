@@ -4,11 +4,10 @@
 |  Page     | 联系方式                                                                                                                               |
 | ----------- |------------------------------------------------------------------------------------------------------------------------------------| 
 |  [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/Waiken-K)[ Github: Waiken-K](https://github.com/Waiken-K)      | [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](qq461450651@gmail.com)[ Mail: qq461450651@gmail.com](qq461450651@gmail.com) | 
-| ![Linkedin](https://static.is26.com/tmp/icons/linkedin.svg?ver=1) [LinkedIn](https://www.linkedin.com/in/waiken/) | [![Mobile](https://static.is26.com/tmp/icons/iphone.svg)](https://github.com/Waiken-K) CN [15102044053](tel:+ 15102044053)         |
 
 ## 关于我
 
-大家好，我是邝伟健（kuàng wěi jiàn），一名高级软件开发人员（C/C++、Java），在中国集成电路和 IT 行业拥有 7 年的经验。 精通Java、Spring、Mybatis及相关技术栈。 曾在创维数字有限公司担任嵌入式软件开发人员，碧桂园集团担任Java开发人员，分别是中国及世界500强企业。
+一名高级软件开发人员（C/C++、Java），在中国集成电路和 IT 行业拥有 7 年的经验。 精通Java、Spring、Mybatis及相关技术栈。 曾在创维数字有限公司担任嵌入式软件开发人员，碧桂园集团担任Java开发人员，分别是中国及世界500强企业。
 
 ---
 
