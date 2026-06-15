@@ -4,7 +4,7 @@
 |  Page     | Contact                                                                                                                            |
 | ----------- |------------------------------------------------------------------------------------------------------------------------------------| 
 |  [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/Waiken-K)[ Github: Waiken-K](https://github.com/Waiken-K)      | [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](qq461450651@gmail.com)[ Mail: qq461450651@gmail.com](qq461450651@gmail.com) | 
-| ![Linkedin](https://static.is26.com/tmp/icons/linkedin.svg?ver=1) [LinkedIn](https://www.linkedin.com/in/waiken/) | [![Mobile](https://static.is26.com/tmp/icons/iphone.svg)](https://github.com/Waiken-K) CN [15102044053](tel:+ 15102044053)         |
+| ![Linkedin](https://static.is26.com/tmp/icons/linkedin.svg?ver=1) [LinkedIn](https://www.linkedin.com/in/waiken/) | |
 
 ## About Me
 
